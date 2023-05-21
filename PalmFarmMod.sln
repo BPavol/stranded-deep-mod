@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalmFarmMod", "PalmFarmMod.csproj", "{47AE0F20-98DC-4922-B25A-D8A4AEF9A560}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47AE0F20-98DC-4922-B25A-D8A4AEF9A560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47AE0F20-98DC-4922-B25A-D8A4AEF9A560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47AE0F20-98DC-4922-B25A-D8A4AEF9A560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47AE0F20-98DC-4922-B25A-D8A4AEF9A560}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95A1901F-135D-4D38-8025-03E2723BF3DD}
+	EndGlobalSection
+EndGlobal

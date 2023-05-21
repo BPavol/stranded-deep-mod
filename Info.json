@@ -1,0 +1,12 @@
+﻿{
+    "Id": "PalmFarmMod",
+    "DisplayName": "Palm Farm",
+    "Author": "BPavol",
+    "Version": "1.0.0",
+    "ManagerVersion": "0.25.5.0",
+    "GameVersion": "1.0.17.0.23",
+    "Requirements": [],
+    "LoadAfter": [],
+    "AssemblyName": "PalmFarmMod.dll",
+    "EntryMethod": "PalmFarmMod.Main.Load"
+}
