@@ -1,7 +1,7 @@
 # Palm Farm mod
 Mod allows planting palms in farming plots.
 
-**WARNING: This mod replace kura plant with palm tree!
+**WARNING: This mod replace Kura plant with palm tree!
 Kura plant will be no more available for planting.**
 
 # Prerequisites
