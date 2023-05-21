@@ -71,7 +71,7 @@ namespace PalmFarmMod
             var _plantStages = Traverse.Create(__instance).Field("_plantStages").GetValue<GameObject[]>();
             var _deadStage = Traverse.Create(__instance).Field("_deadStage").GetValue<GameObject>();
 
-            var palm = new PalmPlantModel(PalmPlantModel.AlterPlantStages(_plantStages), PalmPlantModel.AlterDeadStage(_deadStage), (float) 1.0);
+            var palm = new PalmPlantModel(PalmPlantModel.AlterPlantStages(_plantStages), PalmPlantModel.AlterDeadStage(_deadStage), (float) 72.0);
             Traverse.Create(__instance).Field("_plantModel").SetValue(palm);
         }
     }

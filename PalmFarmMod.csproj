@@ -88,6 +88,9 @@
     <None Include="Info.json" />
     <Compile Include="PalmPlantModel.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include=".gitignore" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PostBuildEvent>start XCOPY /Y /R "$(TargetPath)" "D:\Games\SteamLibrary\steamapps\common\Stranded Deep\Mods\$(ProjectName)\$(ProjectName).dll*"</PostBuildEvent>
